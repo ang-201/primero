@@ -1,6 +1,6 @@
 mkdir
 rmdir
-grep 
+grep
 file 
 touch
 nano
@@ -17,4 +17,28 @@ cp -r/R
 cat
 head
 less
+base64
+xxd
+adduser
+userdel 
+chmod
+userdel
+groupdel
+chgrp
+addgroup
+chsh
+ssh
+id
+pwd
+hostname
+ls
+whoami
+chown
+tail
+grep
+mv
+echo
+sort
+xargs
+wc
 
